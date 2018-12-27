@@ -1,1 +1,6 @@
 .idea/
+SodokuAI.BL/bin/Debug/
+SodokuAI.BL/obj/
+SodokuAI.BL.Tests/bin/Debug/
+SodokuAI.BL.Tests/obj/
+Sodoku-AI.sln.DotSettings.user
